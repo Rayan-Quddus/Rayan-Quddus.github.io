@@ -1,6 +1,6 @@
 # Welcome
 
-Hi, I’m **Rayan Quddus** — a Master’s student in **Aerospace Engineering** at **California State University, Long Beach (CSULB)**, focused on **thermal & multiphase systems** (pool/flow boiling), **experimental diagnostics** (IR thermography + high-speed visualization), **NI DAQ + LabVIEW** control, and **CFD validation**.
+Hi, I’m **Rayan Quddus** — a Master’s student in **Aerospace Engineering** at **California State University, Long Beach (CSULB)**, focused on **thermal & multiphase systems** (pool/flow boiling), **experimental diagnostics** (IR thermography + high-speed visualization), **NI DAQ + LabVIEW** control, and **CFD**.
 
 ## Navigate by Branch (choose what you want to see)
 
