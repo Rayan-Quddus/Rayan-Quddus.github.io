@@ -1,14 +1,4 @@
-# Welcome
-
-Hi, I’m **Rayan Quddus** — MS Aerospace Engineering (Thermal & Multiphase Systems), CSULB.
-
-This repository hosts my professional engineering portfolio, including research projects, system design work, and simulation studies related to aerospace thermal management.
-
----
-
-## Navigate by Interest
-
-## 🔬 Experimental Heat Transfer Projects
+### 🔬 Experimental Heat Transfer Projects
 
 ### 1️⃣ Pool Boiling Heat Transfer Enhancement
 - High heat-flux pool boiling experiments for aerospace avionics cooling  
