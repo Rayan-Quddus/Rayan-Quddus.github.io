@@ -1,57 +1,52 @@
-# Rayan-Quddus.github.io
-
 # Welcome
 
-Hi, I’m **Rayan Quddus** — a Master’s student in Aerospace Engineering at California State University, Long Beach.
+Hi, I’m **Rayan Quddus** — MS Aerospace Engineering (Thermal & Multiphase Systems), CSULB.
 
-I specialize in thermal systems, multiphase heat transfer, and experimental analysis for aerospace cooling applications.  
-This repository hosts my professional website and selected engineering projects.
-
----
-
-## 🔬 Research Focus
-
-I investigate high heat-flux pool boiling heat transfer for aerospace avionics cooling applications.  
-My work combines experimental diagnostics, IR thermography, high-speed visualization, and data-driven modeling to understand bubble dynamics and surface-fluid interactions.
-
-I develop MATLAB-based post-processing frameworks and explore machine learning approaches to analyze and predict boiling behavior.
-
-The goal is to advance thermal management strategies for compact, high-power-density electronic systems.
+This repository hosts my professional engineering portfolio, including research projects, system design work, and simulation studies related to aerospace thermal management.
 
 ---
 
-## 📊 Data Processing & Modeling
+## Navigate by Interest
 
-**MATLAB**
-- Post-processing experimental pool boiling data  
-- Heat transfer coefficient calculations  
-- Heat flux estimation  
-- Uncertainty analysis  
-- Curve fitting and trend evaluation  
+### 🔬 Experimental Heat Transfer
+- Pool boiling heat transfer enhancement
+- IR thermography and high-speed visualization
+- Surface-fluid interaction studies
 
-**Machine Learning (Developing)**
-- Bubble feature extraction from visualization data  
-- Pattern recognition in nucleation behavior  
-- Classification of boiling regimes  
-- Data-driven analysis of bubble growth characteristics  
+➡ Visit: **Projects → Pool Boiling**
 
 ---
 
-## 🛠 Technical Areas
+### ⚙️ Controls & Data Acquisition
+- NI DAQ integration
+- LabVIEW-based heater control (4 SSR digital outputs)
+- Experimental system design and monitoring
 
-- Heat Transfer & Multiphase Flow  
-- Pool Boiling Enhancement  
-- IR Thermography & High-Speed Imaging  
-- NI DAQ & LabVIEW Control Systems  
-- MATLAB Data Analysis  
-- Machine Learning for Thermal-Fluid Applications  
-- CFD Validation & Mesh Independence Studies  
+➡ Visit: **Projects → Heater Control & DAQ**
 
 ---
 
-## 🌐 Portfolio Website
+### 🌊 CFD & Validation
+- Flow through cone valve validation study
+- Mesh independence analysis
+- Quantitative comparison with reference data
 
-(Insert your GitHub Pages link here once activated)
+➡ Visit: **Projects → CFD Validation**
+
+---
+
+### 📊 Data Processing & Modeling
+- MATLAB-based post-processing
+- Heat transfer coefficient and uncertainty analysis
+- Exploratory machine learning for bubble behavior analysis
+
+---
+
+## 🌐 Website
+
+Access the full portfolio here:
+
+👉 (Insert your GitHub Pages link)
 
 ---
 
